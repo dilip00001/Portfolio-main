@@ -1,6 +1,6 @@
 import React from "react";
 import waveHand from "../assets/waving-hand.png";
-import myResume from "../assets/Resume without_photo.pdf";
+import myResume from "../assets/Resume without_photo (1).pdf";
 
 const skillsImg1 = "https://skillicons.dev/icons?i=html,css";
 const skillsImg2 = "https://skillicons.dev/icons?i=js,react";
